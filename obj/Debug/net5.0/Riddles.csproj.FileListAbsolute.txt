@@ -1,0 +1,5 @@
+/Users/kimbrannian/Desktop/riddles-of-the-sphinx/obj/Debug/net5.0/Riddles.csproj.AssemblyReference.cache
+/Users/kimbrannian/Desktop/riddles-of-the-sphinx/obj/Debug/net5.0/Riddles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimbrannian/Desktop/riddles-of-the-sphinx/obj/Debug/net5.0/Riddles.AssemblyInfoInputs.cache
+/Users/kimbrannian/Desktop/riddles-of-the-sphinx/obj/Debug/net5.0/Riddles.AssemblyInfo.cs
+/Users/kimbrannian/Desktop/riddles-of-the-sphinx/obj/Debug/net5.0/Riddles.csproj.CoreCompileInputs.cache
