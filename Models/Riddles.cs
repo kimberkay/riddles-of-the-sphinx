@@ -1,14 +1,14 @@
-namespace TheSphinx
+namespace TheSphinx.Models
 {
   public class Riddle
   {
     public string Question { get; set; }
     public string Answer { get; set; }
 
-  public Riddle(string Question, string Answer)
+  public Riddle(string question, string answer)
   {
-    Question = Question;
-    Answer = Answer;
+    Question = question;
+    Answer = answer;
   }
 
   public bool CheckAnswer(string userAnswer)
